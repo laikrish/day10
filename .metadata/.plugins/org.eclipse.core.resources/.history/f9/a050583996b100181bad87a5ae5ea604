@@ -1,0 +1,10 @@
+package com.capgemini.day10;
+
+public class EmployeeDetails {
+
+private String employeeName;
+private double employeeid;
+private double salary;
+private String department;
+
+}

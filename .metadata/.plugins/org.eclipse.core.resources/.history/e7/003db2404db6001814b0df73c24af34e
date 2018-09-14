@@ -1,0 +1,5 @@
+package com.capgemini.bankapp.daoimpl;
+
+public class CustomerDaoImpl {
+
+}

@@ -1,0 +1,45 @@
+package com.capgemini.domain;
+
+public class CreditCard {
+
+	private String userName;
+	private long creditCardNumber;
+	private int cvvNumber;
+
+	public CreditCard() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
+	public CreditCard(String userName, long creditCardNumber, int cvvNumber) {
+		super();
+		this.userName = userName;
+		this.creditCardNumber = creditCardNumber;
+		this.cvvNumber = cvvNumber;
+	}
+
+	public String getUserName() {
+		return userName;
+	}
+
+	public void setUserName(String userName) {
+		this.userName = userName;
+	}
+
+	public long getCreditCardNumber() {
+		return creditCardNumber;
+	}
+
+	public void setCreditCardNumber(long creditCardNumber) {
+		this.creditCardNumber = creditCardNumber;
+	}
+
+	public int getCvvNumber() {
+		return cvvNumber;
+	}
+
+	public void setCvvNumber(int cvvNumber) {
+		this.cvvNumber = cvvNumber;
+	}
+
+}

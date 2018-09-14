@@ -1,0 +1,17 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Find Employee</title>
+</head>
+<body bgcolor="cyan">
+<form action="findEmployee" method="post">
+<label>Employee Id:</label>
+<input type="number" name="empId" required/>
+<br>
+<input type="submit" value=" Find Employee"/>
+</form>
+</body>
+</html>

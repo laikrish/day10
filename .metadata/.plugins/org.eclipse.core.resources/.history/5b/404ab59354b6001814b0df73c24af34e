@@ -1,0 +1,36 @@
+package com.capgemini.bankapp.daoimpl;
+
+import java.util.HashSet;
+
+import com.capgemini.bankapp.dao.CustomerDao;
+import com.capgemini.bankapp.model.Customer;
+
+public class CustomerDaoImpl implements CustomerDao {
+	private HashSet<Customer> customers = new HashSet<>();
+
+	
+	@Override
+	public Customer authenticate(Customer customer) {
+
+		return customer;
+	}
+
+	@Override
+	public Customer updateProfile(Customer customer) {
+
+		return null;
+	}
+
+	@Override
+	public boolean updatePassword(Customer customer, String oldPassword, String newPassword) {
+
+		return false;
+	}
+
+	@Override
+	public HashSet<Customer> findAllCutomers() {
+
+		return null;
+	}
+
+}

@@ -1,0 +1,25 @@
+package com.capgemini.bankapp.service.impl;
+
+import com.capgemini.bankapp.model.Customer;
+import com.capgemini.bankapp.service.CustomerService;
+
+public class CustomerServiceImpl implements CustomerService {
+
+	public Customer authenticate(Customer customer) {
+
+		return customer;
+	}
+
+	@Override
+	public Customer updateProfile(Customer customer) {
+
+		return null;
+	}
+
+	@Override
+	public boolean updatePassword(Customer customer, String oldPassword, String newPassword) {
+	
+		return false;
+	}
+
+}

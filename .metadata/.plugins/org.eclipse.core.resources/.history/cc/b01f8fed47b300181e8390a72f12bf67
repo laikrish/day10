@@ -1,0 +1,21 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Delete</title>
+</head>
+<body>
+<h1>Delete Employee</h1>
+    <hr>
+    <form action="deleteEmployee" method="post">
+    <label>Employee Id: </label>
+    <input type="number" name="empId" required/>
+    <br>
+<!--     <th><input type="submit" name="Delete"/></th> -->
+  <input type="submit" value="Delete Employee"/>
+    <br>
+</form>
+</body>
+</html>

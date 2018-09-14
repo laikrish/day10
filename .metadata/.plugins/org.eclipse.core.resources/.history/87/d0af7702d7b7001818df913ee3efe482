@@ -1,0 +1,20 @@
+package com.capgemini.bankapp.controller;
+
+import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.Set;
+
+import com.capgemini.bankapp.model.BankAccount;
+import com.capgemini.bankapp.model.Customer;
+
+public class DataBase {
+    Set<String> BankAccount = new HashSet<>();
+	
+    BankAccount.add(new BankAccount(1234,"savings",50000));
+    BankAccount.add(new BankAccount(1789,"current",7000));;
+
+	 
+	 HashSet<Customer> customers  = new HashSet<>();
+	 customers.add(new Customer(1234,"krishna", "savings","capgemini","krishnachythu@gmail.com","mumbai","30/05/1997"));
+	 customers.add(new Customer(1879,"krishna", "current","capgemini","krishna@gmail.com","hyderabad","30/05/1989"));
+}

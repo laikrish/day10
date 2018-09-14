@@ -1,0 +1,17 @@
+package com.capgemini.bankapp.controller;
+
+import java.util.ArrayList;
+
+import com.capgemini.bankapp.model.BankAccount;
+import com.capgemini.bankapp.model.Customer;
+
+public class DataBase {
+	ArrayList<BankAccount> account  = new ArrayList<>();
+	 account.add(new BankAccount(1234,"savings", 50000);
+	 account.add(new BankAccount(1789,"current", 70000);
+	 
+	 
+	  ArrayList<Customer> customers  = new ArrayList<>();
+	 customers.add(new Customer(1234,"krishna", "savings","capgemini","krishnachythu@gmail.com","mumbai","30/05/1997",50000);
+	 customers.add(new Customer(1879,"krishna", "current","capgemini","krishna@gmail.com","hyderabad","30/05/1989",90000);
+}

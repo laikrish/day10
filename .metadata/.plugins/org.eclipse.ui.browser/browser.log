@@ -1,0 +1,251 @@
+
+Sep 05, 2018 07:57:16.02 NEW SESSION
+Sep 05, 2018 07:57:16.02 [10780:3420:0905/075715.973:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 05, 2018 07:57:16.02 [10780:3420:0905/075715.973:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 05, 2018 07:57:16.03 [10780:3420:0905/075715.974:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 05, 2018 07:57:16.03 [10780:3420:0905/075715.974:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 05, 2018 07:57:16.03 [10780:3420:0905/075715.974:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 05, 2018 07:57:16.54 [10780:3420:0905/075716.547:ERROR:gpu_process_transport_factory.cc(1016)] Lost UI shared context.
+Sep 05, 2018 07:58:00.95 Unable to read VR Path Registry from C:\Users\laikrish\AppData\Local\openvr\openvrpaths.vrpath
+Sep 05, 2018 08:00:11.10 [14000:7852:0905/080011.077:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 05, 2018 08:00:11.10 [14000:7852:0905/080011.077:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 05, 2018 08:00:11.10 [14000:7852:0905/080011.077:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 05, 2018 08:00:11.10 [14000:7852:0905/080011.077:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 05, 2018 08:00:11.10 [14000:7852:0905/080011.077:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 05, 2018 08:00:11.52 [14000:7852:0905/080011.522:ERROR:gpu_process_transport_factory.cc(1016)] Lost UI shared context.
+Sep 05, 2018 08:00:15.23 [14000:7852:0905/080015.231:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.016 s for parse_start 0.013 s
+Sep 05, 2018 08:00:16.23 [14000:7852:0905/080016.231:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.016 s for parse_start 0.013 s
+Sep 05, 2018 08:00:16.69 [14000:7852:0905/080016.690:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.016 s for parse_start 0.013 s
+Sep 05, 2018 08:00:16.69 [14000:7852:0905/080016.690:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.016 s for parse_start 0.013 s
+Sep 05, 2018 08:00:21.20 [14000:7852:0905/080021.200:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.016 s for parse_start 0.013 s
+Sep 05, 2018 08:00:21.20 [14000:7852:0905/080021.200:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.016 s for parse_start 0.013 s
+Sep 05, 2018 08:00:42.09 [14000:7852:0905/080042.096:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.016 s for parse_start 0.013 s
+Sep 05, 2018 08:00:44.61 [14000:7852:0905/080044.615:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.016 s for parse_start 0.013 s
+Sep 05, 2018 08:00:45.67 [14000:7852:0905/080045.675:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.016 s for parse_start 0.013 s
+Sep 05, 2018 08:00:46.90 [14000:7852:0905/080046.907:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.016 s for parse_start 0.013 s
+Sep 05, 2018 08:00:56.05 Unable to read VR Path Registry from C:\Users\laikrish\AppData\Local\openvr\openvrpaths.vrpath
+Sep 05, 2018 08:01:00.33 [14000:7852:0905/080100.338:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.005 s for parse_start 0.003 s
+Sep 05, 2018 08:01:01.33 [14000:7852:0905/080101.339:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.005 s for parse_start 0.003 s
+Sep 05, 2018 08:01:01.79 [14000:7852:0905/080101.793:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.005 s for parse_start 0.003 s
+Sep 05, 2018 08:01:01.79 [14000:7852:0905/080101.793:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.005 s for parse_start 0.003 s
+Sep 05, 2018 08:01:02.20 [14000:7852:0905/080102.201:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.004 s for parse_start 0.003 s
+Sep 05, 2018 08:01:03.20 [14000:7852:0905/080103.202:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.004 s for parse_start 0.003 s
+Sep 05, 2018 08:01:03.65 [14000:7852:0905/080103.654:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.004 s for parse_start 0.003 s
+Sep 05, 2018 08:01:03.65 [14000:7852:0905/080103.654:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.004 s for parse_start 0.003 s
+Sep 05, 2018 08:01:08.15 [14000:7852:0905/080108.157:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.004 s for parse_start 0.003 s
+Sep 05, 2018 08:01:08.15 [14000:7852:0905/080108.157:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.004 s for parse_start 0.003 s
+Sep 05, 2018 08:01:08.45 [14000:7852:0905/080108.457:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.004 s for parse_start 0.003 s
+Sep 05, 2018 08:01:08.46 [14000:7852:0905/080108.461:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.004 s for parse_start 0.003 s
+Sep 05, 2018 08:01:08.50 [14000:7852:0905/080108.507:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.016 s for parse_start 0.013 s
+Sep 05, 2018 08:01:09.50 [14000:7852:0905/080109.508:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.016 s for parse_start 0.013 s
+Sep 05, 2018 08:01:09.96 [14000:7852:0905/080109.964:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.016 s for parse_start 0.013 s
+Sep 05, 2018 08:01:09.96 [14000:7852:0905/080109.964:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.016 s for parse_start 0.013 s
+Sep 05, 2018 08:01:14.46 [14000:7852:0905/080114.466:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.016 s for parse_start 0.013 s
+Sep 05, 2018 08:01:14.46 [14000:7852:0905/080114.466:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.016 s for parse_start 0.013 s
+Sep 05, 2018 08:04:33.33 [9884:10768:0905/080433.324:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 05, 2018 08:04:33.33 [9884:10768:0905/080433.324:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 05, 2018 08:04:33.33 [9884:10768:0905/080433.324:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 05, 2018 08:04:33.33 [9884:10768:0905/080433.324:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 05, 2018 08:04:33.33 [9884:10768:0905/080433.324:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 05, 2018 08:04:33.74 [9884:10768:0905/080433.741:ERROR:gpu_process_transport_factory.cc(1016)] Lost UI shared context.
+Sep 05, 2018 08:05:18.30 Unable to read VR Path Registry from C:\Users\laikrish\AppData\Local\openvr\openvrpaths.vrpath
+Sep 05, 2018 08:09:41.96 [4084:3836:0905/080941.962:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 05, 2018 08:09:41.96 [4084:3836:0905/080941.962:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 05, 2018 08:09:41.96 [4084:3836:0905/080941.962:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 05, 2018 08:09:41.96 [4084:3836:0905/080941.962:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 05, 2018 08:09:41.96 [4084:3836:0905/080941.962:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 05, 2018 08:09:42.38 [4084:3836:0905/080942.383:ERROR:gpu_process_transport_factory.cc(1016)] Lost UI shared context.
+Sep 05, 2018 08:10:26.93 Unable to read VR Path Registry from C:\Users\laikrish\AppData\Local\openvr\openvrpaths.vrpath
+Sep 05, 2018 08:15:29.46 [4084:3836:0905/081529.461:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.034 s for parse_start 0.031 s
+Sep 05, 2018 08:15:29.46 [4084:3836:0905/081529.461:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.034 s for parse_start 0.031 s
+Sep 05, 2018 08:15:30.46 [4084:3836:0905/081530.466:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.034 s for parse_start 0.031 s
+Sep 05, 2018 08:15:31.46 [4084:3836:0905/081531.466:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.034 s for parse_start 0.031 s
+Sep 05, 2018 08:15:33.24 [4084:3836:0905/081533.249:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.034 s for parse_start 0.031 s
+Sep 05, 2018 08:15:33.29 [4084:3836:0905/081533.298:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.017 s for parse_start 0.014 s
+Sep 05, 2018 08:15:34.29 [4084:3836:0905/081534.298:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.017 s for parse_start 0.014 s
+Sep 05, 2018 08:15:34.75 [4084:3836:0905/081534.756:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.017 s for parse_start 0.014 s
+Sep 05, 2018 08:15:34.75 [4084:3836:0905/081534.756:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.017 s for parse_start 0.014 s
+Sep 05, 2018 08:15:36.27 [4084:3836:0905/081536.276:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.017 s for parse_start 0.014 s
+Sep 05, 2018 08:15:39.26 [4084:3836:0905/081539.261:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.017 s for parse_start 0.014 s
+Sep 05, 2018 08:15:48.20 [4084:3836:0905/081548.208:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.017 s for parse_start 0.014 s
+Sep 05, 2018 08:15:49.91 [4084:3836:0905/081549.909:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.017 s for parse_start 0.014 s
+Sep 05, 2018 08:15:50.92 [4084:3836:0905/081550.927:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.017 s for parse_start 0.014 s
+Sep 05, 2018 08:15:51.70 [4084:3836:0905/081551.704:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.017 s for parse_start 0.014 s
+Sep 05, 2018 08:23:15.58 [4084:3836:0905/082315.584:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.014 s for parse_start 0.009 s
+Sep 05, 2018 08:23:16.58 [4084:3836:0905/082316.585:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.014 s for parse_start 0.009 s
+Sep 05, 2018 08:23:17.04 [4084:3836:0905/082317.048:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.014 s for parse_start 0.009 s
+Sep 05, 2018 08:23:21.55 [4084:3836:0905/082321.551:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.014 s for parse_start 0.009 s
+Sep 05, 2018 08:23:22.55 [4084:3836:0905/082322.556:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.014 s for parse_start 0.009 s
+Sep 05, 2018 08:23:24.71 [4084:3836:0905/082324.709:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.014 s for parse_start 0.009 s
+Sep 05, 2018 08:23:25.82 [4084:3836:0905/082325.826:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.014 s for parse_start 0.009 s
+Sep 05, 2018 08:23:27.05 [4084:3836:0905/082327.058:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.014 s for parse_start 0.009 s
+Sep 05, 2018 08:23:32.64 [4084:3836:0905/082332.640:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.008 s for parse_start 0.004 s
+Sep 05, 2018 08:23:33.64 [4084:3836:0905/082333.640:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.008 s for parse_start 0.004 s
+Sep 05, 2018 08:23:34.09 [4084:3836:0905/082334.097:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.008 s for parse_start 0.004 s
+Sep 05, 2018 08:23:34.09 [4084:3836:0905/082334.097:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.008 s for parse_start 0.004 s
+Sep 05, 2018 08:23:38.60 [4084:3836:0905/082338.604:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.008 s for parse_start 0.004 s
+Sep 05, 2018 08:23:38.60 [4084:3836:0905/082338.604:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.008 s for parse_start 0.004 s
+Sep 05, 2018 08:25:33.83 [4084:3836:0905/082533.830:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.025 s for parse_start 0.019 s
+Sep 05, 2018 08:25:34.83 [4084:3836:0905/082534.830:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.025 s for parse_start 0.019 s
+Sep 05, 2018 08:25:35.29 [4084:3836:0905/082535.290:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.025 s for parse_start 0.019 s
+Sep 05, 2018 08:25:35.29 [4084:3836:0905/082535.290:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.025 s for parse_start 0.019 s
+Sep 05, 2018 08:25:38.17 [4084:3836:0905/082538.178:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.025 s for parse_start 0.019 s
+Sep 05, 2018 08:25:38.22 [4084:3836:0905/082538.228:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.028 s for parse_start 0.022 s
+Sep 05, 2018 08:25:39.22 [4084:3836:0905/082539.229:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.028 s for parse_start 0.022 s
+Sep 05, 2018 08:25:39.68 [4084:3836:0905/082539.684:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.028 s for parse_start 0.022 s
+Sep 05, 2018 08:25:39.68 [4084:3836:0905/082539.684:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.028 s for parse_start 0.022 s
+Sep 05, 2018 08:25:41.09 [4084:3836:0905/082541.092:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.028 s for parse_start 0.022 s
+Sep 05, 2018 08:25:42.80 [4084:3836:0905/082542.806:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.028 s for parse_start 0.022 s
+Sep 05, 2018 08:25:43.80 [4084:3836:0905/082543.807:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.028 s for parse_start 0.022 s
+Sep 05, 2018 08:25:44.19 [4084:3836:0905/082544.193:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.028 s for parse_start 0.022 s
+Sep 05, 2018 08:25:44.19 [4084:3836:0905/082544.193:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.028 s for parse_start 0.022 s
+Sep 05, 2018 08:25:45.00 [4084:3836:0905/082545.003:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.028 s for parse_start 0.022 s
+Sep 05, 2018 08:25:45.05 [4084:3836:0905/082545.053:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.021 s for parse_start 0.018 s
+Sep 05, 2018 08:25:46.05 [4084:3836:0905/082546.054:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.021 s for parse_start 0.018 s
+Sep 05, 2018 08:25:46.50 [4084:3836:0905/082546.507:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.021 s for parse_start 0.018 s
+Sep 05, 2018 08:25:46.50 [4084:3836:0905/082546.507:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.021 s for parse_start 0.018 s
+Sep 05, 2018 08:25:49.04 [4084:3836:0905/082549.040:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.021 s for parse_start 0.018 s
+Sep 05, 2018 08:25:49.09 [4084:3836:0905/082549.089:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.007 s for parse_start 0.003 s
+Sep 05, 2018 08:25:50.09 [4084:3836:0905/082550.090:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.007 s for parse_start 0.003 s
+Sep 05, 2018 08:25:50.54 [4084:3836:0905/082550.548:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.007 s for parse_start 0.003 s
+Sep 05, 2018 08:25:51.63 [4084:3836:0905/082551.630:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.007 s for parse_start 0.003 s
+Sep 05, 2018 08:25:52.63 [4084:3836:0905/082552.631:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.007 s for parse_start 0.003 s
+Sep 05, 2018 08:25:55.05 [4084:3836:0905/082555.050:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.007 s for parse_start 0.003 s
+Sep 05, 2018 08:25:55.05 [4084:3836:0905/082555.050:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.007 s for parse_start 0.003 s
+Sep 05, 2018 08:26:00.36 [4084:3836:0905/082600.359:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.007 s for parse_start 0.003 s
+Sep 05, 2018 08:26:00.41 [4084:3836:0905/082600.409:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.023 s for parse_start 0.016 s
+Sep 05, 2018 08:26:01.41 [4084:3836:0905/082601.410:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.023 s for parse_start 0.016 s
+Sep 05, 2018 08:26:01.86 [4084:3836:0905/082601.865:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.023 s for parse_start 0.016 s
+Sep 05, 2018 08:26:01.86 [4084:3836:0905/082601.865:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.023 s for parse_start 0.016 s
+Sep 05, 2018 08:26:05.14 [4084:3836:0905/082605.147:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.023 s for parse_start 0.016 s
+Sep 05, 2018 08:26:05.19 [4084:3836:0905/082605.197:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.009 s for parse_start 0.003 s
+Sep 05, 2018 08:26:06.19 [4084:3836:0905/082606.198:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.009 s for parse_start 0.003 s
+Sep 05, 2018 08:26:06.65 [4084:3836:0905/082606.653:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.009 s for parse_start 0.003 s
+Sep 05, 2018 08:26:06.65 [4084:3836:0905/082606.653:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.009 s for parse_start 0.003 s
+Sep 05, 2018 08:26:07.58 [4084:3836:0905/082607.586:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.009 s for parse_start 0.003 s
+Sep 05, 2018 08:26:07.63 [4084:3836:0905/082607.635:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.017 s for parse_start 0.013 s
+Sep 05, 2018 08:26:08.63 [4084:3836:0905/082608.635:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.017 s for parse_start 0.013 s
+Sep 05, 2018 08:26:09.09 [4084:3836:0905/082609.089:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.017 s for parse_start 0.013 s
+Sep 05, 2018 08:26:10.09 [4084:3836:0905/082610.090:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.017 s for parse_start 0.013 s
+Sep 05, 2018 08:26:12.60 [4084:3836:0905/082612.601:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.017 s for parse_start 0.013 s
+Sep 05, 2018 08:26:12.60 [4084:3836:0905/082612.601:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.017 s for parse_start 0.013 s
+Sep 05, 2018 08:26:13.80 [4084:3836:0905/082613.806:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.017 s for parse_start 0.013 s
+Sep 05, 2018 08:26:13.85 [4084:3836:0905/082613.857:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.022 s for parse_start 0.015 s
+Sep 05, 2018 08:26:14.85 [4084:3836:0905/082614.857:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.022 s for parse_start 0.015 s
+Sep 05, 2018 08:26:15.31 [4084:3836:0905/082615.313:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.022 s for parse_start 0.015 s
+Sep 05, 2018 08:26:15.31 [4084:3836:0905/082615.313:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.022 s for parse_start 0.015 s
+Sep 05, 2018 08:26:19.78 [4084:3836:0905/082619.782:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.022 s for parse_start 0.015 s
+Sep 05, 2018 08:26:19.78 [4084:3836:0905/082619.782:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.022 s for parse_start 0.015 s
+Sep 05, 2018 09:06:43.08 [4084:3836:0905/090643.079:ERROR:textfield.cc(1754)] NOT IMPLEMENTED
+
+Sep 06, 2018 05:01:34.96 NEW SESSION
+Sep 06, 2018 05:01:34.96 [8496:3556:0906/050134.958:ERROR:gpu_process_transport_factory.cc(1016)] Lost UI shared context.
+Sep 06, 2018 05:02:19.50 Unable to read VR Path Registry from C:\Users\laikrish\AppData\Local\openvr\openvrpaths.vrpath
+Sep 06, 2018 05:04:05.78 [8496:3556:0906/050405.784:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.053 s for parse_start 0.047 s
+Sep 06, 2018 05:04:06.79 [8496:3556:0906/050406.796:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.053 s for parse_start 0.047 s
+Sep 06, 2018 05:04:07.28 [8496:3556:0906/050407.280:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.053 s for parse_start 0.047 s
+Sep 06, 2018 05:04:07.28 [8496:3556:0906/050407.280:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.053 s for parse_start 0.047 s
+Sep 06, 2018 05:04:11.79 [8496:3556:0906/050411.790:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.053 s for parse_start 0.047 s
+Sep 06, 2018 05:04:11.79 [8496:3556:0906/050411.790:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.053 s for parse_start 0.047 s
+Sep 06, 2018 05:07:49.93 [8496:3556:0906/050749.937:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.062 s for parse_start 0.058 s
+Sep 06, 2018 05:07:49.93 [8496:3556:0906/050749.937:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.062 s for parse_start 0.058 s
+Sep 06, 2018 05:07:50.94 [8496:3556:0906/050750.949:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.062 s for parse_start 0.058 s
+Sep 06, 2018 05:07:51.94 [8496:3556:0906/050751.949:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.062 s for parse_start 0.058 s
+Sep 06, 2018 05:07:55.95 [8496:3556:0906/050755.950:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.062 s for parse_start 0.058 s
+Sep 06, 2018 05:07:55.95 [8496:3556:0906/050755.950:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.062 s for parse_start 0.058 s
+Sep 06, 2018 05:07:57.43 [8496:3556:0906/050757.431:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.062 s for parse_start 0.058 s
+Sep 06, 2018 05:07:59.18 [8496:3556:0906/050759.185:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.062 s for parse_start 0.058 s
+Sep 06, 2018 05:08:00.35 [8496:3556:0906/050800.354:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.062 s for parse_start 0.058 s
+Sep 06, 2018 05:08:01.94 [8496:3556:0906/050801.943:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.062 s for parse_start 0.058 s
+Sep 06, 2018 05:08:03.04 [8496:3556:0906/050803.043:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.062 s for parse_start 0.058 s
+Sep 06, 2018 05:08:03.87 [8496:3556:0906/050803.871:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.062 s for parse_start 0.058 s
+Sep 06, 2018 05:10:57.98 [8496:3556:0906/051057.989:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.044 s for parse_start 0.038 s
+Sep 06, 2018 05:10:58.99 [8496:3556:0906/051058.990:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.044 s for parse_start 0.038 s
+Sep 06, 2018 05:10:59.46 [8496:3556:0906/051059.465:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.044 s for parse_start 0.038 s
+Sep 06, 2018 05:10:59.46 [8496:3556:0906/051059.465:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.044 s for parse_start 0.038 s
+Sep 06, 2018 05:11:03.98 [8496:3556:0906/051103.989:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.044 s for parse_start 0.038 s
+Sep 06, 2018 05:11:03.98 [8496:3556:0906/051103.989:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.044 s for parse_start 0.038 s
+Sep 06, 2018 05:26:29.84 [8496:3556:0906/052629.843:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.043 s for parse_start 0.038 s
+Sep 06, 2018 05:26:30.84 [8496:3556:0906/052630.848:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.043 s for parse_start 0.038 s
+Sep 06, 2018 05:26:31.33 [8496:3556:0906/052631.332:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.043 s for parse_start 0.038 s
+Sep 06, 2018 05:26:31.33 [8496:3556:0906/052631.332:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.043 s for parse_start 0.038 s
+Sep 06, 2018 05:26:35.82 [8496:3556:0906/052635.826:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.043 s for parse_start 0.038 s
+Sep 06, 2018 05:26:35.82 [8496:3556:0906/052635.826:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.043 s for parse_start 0.038 s
+Sep 06, 2018 05:49:32.90 [8496:3556:0906/054932.906:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.04 s for parse_start 0.036 s
+Sep 06, 2018 05:49:32.90 [8496:3556:0906/054932.906:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.04 s for parse_start 0.036 s
+Sep 06, 2018 05:49:33.91 [8496:3556:0906/054933.911:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.04 s for parse_start 0.036 s
+Sep 06, 2018 05:49:34.91 [8496:3556:0906/054934.915:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.04 s for parse_start 0.036 s
+Sep 06, 2018 05:49:35.96 [8496:3556:0906/054935.963:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.04 s for parse_start 0.036 s
+Sep 06, 2018 05:49:38.91 [8496:3556:0906/054938.914:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.04 s for parse_start 0.036 s
+Sep 06, 2018 05:49:40.15 [8496:3556:0906/054940.153:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.04 s for parse_start 0.036 s
+Sep 06, 2018 05:49:41.15 [8496:3556:0906/054941.159:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.04 s for parse_start 0.036 s
+Sep 06, 2018 05:49:41.26 [8496:3556:0906/054941.268:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.04 s for parse_start 0.036 s
+Sep 06, 2018 05:49:45.08 [8496:3556:0906/054945.079:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.04 s for parse_start 0.036 s
+Sep 06, 2018 05:49:45.13 [8496:3556:0906/054945.129:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.024 s for parse_start 0.017 s
+Sep 06, 2018 05:49:45.13 [8496:3556:0906/054945.129:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.024 s for parse_start 0.017 s
+Sep 06, 2018 05:51:15.36 [8496:3556:0906/055115.366:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.024 s for parse_start 0.017 s
+Sep 06, 2018 08:27:41.36 [8496:3556:0906/082741.360:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.026 s for parse_start 0.022 s
+Sep 06, 2018 08:27:42.36 [8496:3556:0906/082742.363:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.026 s for parse_start 0.022 s
+Sep 06, 2018 08:27:42.86 [8496:3556:0906/082742.863:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.026 s for parse_start 0.022 s
+Sep 06, 2018 08:27:42.86 [8496:3556:0906/082742.863:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.026 s for parse_start 0.022 s
+Sep 06, 2018 08:27:47.36 [8496:3556:0906/082747.363:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.026 s for parse_start 0.022 s
+Sep 06, 2018 08:27:47.36 [8496:3556:0906/082747.363:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.026 s for parse_start 0.022 s
+Sep 06, 2018 08:27:58.63 [8496:3556:0906/082758.637:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.014 s for parse_start 0.012 s
+Sep 06, 2018 08:27:59.63 [8496:3556:0906/082759.637:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.014 s for parse_start 0.012 s
+Sep 06, 2018 08:28:00.11 [8496:3556:0906/082800.114:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.014 s for parse_start 0.012 s
+Sep 06, 2018 08:28:00.11 [8496:3556:0906/082800.114:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.014 s for parse_start 0.012 s
+Sep 06, 2018 08:28:04.62 [8496:3556:0906/082804.624:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.014 s for parse_start 0.012 s
+Sep 06, 2018 08:28:04.62 [8496:3556:0906/082804.624:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.014 s for parse_start 0.012 s
+Sep 06, 2018 08:28:21.71 [8496:3556:0906/082821.716:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.017 s for parse_start 0.016 s
+Sep 06, 2018 08:28:22.73 [8496:3556:0906/082822.730:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.017 s for parse_start 0.016 s
+Sep 06, 2018 08:28:23.18 [8496:3556:0906/082823.183:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.017 s for parse_start 0.016 s
+Sep 06, 2018 08:28:23.18 [8496:3556:0906/082823.183:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.017 s for parse_start 0.016 s
+Sep 06, 2018 08:28:25.99 [8496:3556:0906/082825.992:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.017 s for parse_start 0.016 s
+Sep 06, 2018 08:28:27.00 [8496:3556:0906/082827.003:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.017 s for parse_start 0.016 s
+Sep 06, 2018 08:28:27.69 [8496:3556:0906/082827.692:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.017 s for parse_start 0.016 s
+Sep 06, 2018 08:28:27.69 [8496:3556:0906/082827.692:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.017 s for parse_start 0.016 s
+Sep 06, 2018 08:28:35.30 [8496:3556:0906/082835.305:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.017 s for parse_start 0.016 s
+Sep 06, 2018 08:28:43.44 [8496:3556:0906/082843.448:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.017 s for parse_start 0.016 s
+
+Sep 11, 2018 06:03:22.94 NEW SESSION
+Sep 11, 2018 06:03:22.94 [4756:10712:0911/060322.930:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 11, 2018 06:03:22.95 [4756:10712:0911/060322.930:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 11, 2018 06:03:22.95 [4756:10712:0911/060322.930:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 11, 2018 06:03:22.95 [4756:10712:0911/060322.930:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 11, 2018 06:03:22.95 [4756:10712:0911/060322.930:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 11, 2018 06:03:22.95 [4756:10712:0911/060322.931:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 11, 2018 06:03:22.95 [4756:10712:0911/060322.931:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 11, 2018 06:03:22.95 [4756:10712:0911/060322.931:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 11, 2018 06:03:23.42 [4756:10712:0911/060323.420:ERROR:gpu_process_transport_factory.cc(1016)] Lost UI shared context.
+Sep 11, 2018 06:04:07.91 Unable to read VR Path Registry from C:\Users\laikrish\AppData\Local\openvr\openvrpaths.vrpath
+Sep 11, 2018 06:04:44.16 [11868:11120:0911/060444.138:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 11, 2018 06:04:44.16 [11868:11120:0911/060444.138:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 11, 2018 06:04:44.16 [11868:11120:0911/060444.138:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 11, 2018 06:04:44.16 [11868:11120:0911/060444.138:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 11, 2018 06:04:44.16 [11868:11120:0911/060444.138:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 11, 2018 06:04:44.16 [11868:11120:0911/060444.138:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 11, 2018 06:04:44.16 [11868:11120:0911/060444.138:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 11, 2018 06:04:44.16 [11868:11120:0911/060444.138:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 11, 2018 06:04:44.59 [11868:11120:0911/060444.598:ERROR:gpu_process_transport_factory.cc(1016)] Lost UI shared context.
+Sep 11, 2018 06:05:29.13 Unable to read VR Path Registry from C:\Users\laikrish\AppData\Local\openvr\openvrpaths.vrpath
+Sep 11, 2018 06:15:40.29 [11868:11120:0911/061540.292:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.021 s for parse_start 0.018 s
+Sep 11, 2018 06:15:40.44 [11868:11120:0911/061540.447:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.021 s for parse_start 0.018 s
+Sep 11, 2018 06:15:40.49 [11868:11120:0911/061540.494:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.013 s for parse_start 0.01 s
+Sep 11, 2018 06:15:41.49 [11868:11120:0911/061541.494:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.013 s for parse_start 0.01 s
+Sep 11, 2018 06:15:41.94 [11868:11120:0911/061541.947:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.013 s for parse_start 0.01 s
+Sep 11, 2018 06:15:41.94 [11868:11120:0911/061541.947:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 0.013 s for parse_start 0.01 s
+Sep 11, 2018 06:15:50.52 [1908:14596:0911/061550.510:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 11, 2018 06:15:50.52 [1908:14596:0911/061550.510:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 11, 2018 06:15:50.52 [1908:14596:0911/061550.510:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 11, 2018 06:15:50.52 [1908:14596:0911/061550.510:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 11, 2018 06:15:50.52 [1908:14596:0911/061550.510:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 11, 2018 06:15:50.52 [1908:14596:0911/061550.510:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 11, 2018 06:15:50.52 [1908:14596:0911/061550.510:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 11, 2018 06:15:50.52 [1908:14596:0911/061550.510:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 11, 2018 06:15:51.00 [1908:10712:0911/061551.005:ERROR:gpu_process_host.cc(1215)] Bad parenting request from gpu process.
+Sep 11, 2018 06:15:51.01 [1908:14596:0911/061551.011:ERROR:gpu_process_transport_factory.cc(1016)] Lost UI shared context.
+Sep 11, 2018 06:16:35.50 Unable to read VR Path Registry from C:\Users\laikrish\AppData\Local\openvr\openvrpaths.vrpath
+Sep 11, 2018 06:17:33.03 [1908:10712:0911/061733.036:ERROR:ssl_client_socket_impl.cc(996)] handshake failed; returned -1, SSL error code 1, net_error -101
+Sep 11, 2018 07:01:42.52 [1908:14596:0911/070142.523:ERROR:CONSOLE(0)] "Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: chrome://resources/roboto/roboto-regular.woff2", source:  (0)
+Sep 11, 2018 07:01:42.73 [1908:14596:0911/070142.736:ERROR:CONSOLE(429)] "Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: chrome://resources/roboto/roboto-bold.woff2", source: chrome://settings/crisper.js (429)
+Sep 11, 2018 07:01:42.90 [1908:14596:0911/070142.903:ERROR:CONSOLE(0)] "Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: chrome://resources/roboto/roboto-medium.woff2", source:  (0)

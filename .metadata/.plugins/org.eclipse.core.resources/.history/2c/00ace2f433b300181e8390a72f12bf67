@@ -1,0 +1,49 @@
+package com.capgemini.employeeapp.controller;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+
+import javax.servlet.RequestDispatcher;
+import javax.servlet.ServletContext;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import com.capgemini.employeeapp.dao.EmployeeDao;
+import com.capgemini.employeeapp.model.Employee;
+
+
+@WebServlet("/deleteEmployee")
+public class DeleteEmployeeServlet extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+	private EmployeeDao employeeDao;  
+	private ServletContext context;
+    public DeleteEmployeeServlet() {
+        super();
+        
+    }
+
+	
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		response.setContentType("text/html");
+		PrintWriter out = response.getWriter();
+		String employeeid = request.getParameter("empId");
+		int empId = Integer.parseInt(employeeid);
+
+		context.setAttribute("employeeDao", employeeDao);
+		RequestDispatcher dispatcher = null;
+		
+		if(employeeDao.deleteEmployee(empId)) {
+			 response.sendRedirect("getAllEmployees");
+		}
+		else
+		{
+			dispatcher = request.getRequestDispatcher("error.jsp");
+			dispatcher.forward(request, response);
+		}
+		
+	}
+
+}

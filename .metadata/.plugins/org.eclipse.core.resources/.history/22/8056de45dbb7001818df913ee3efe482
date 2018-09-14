@@ -1,0 +1,14 @@
+package com.capgemini.bankapp.service;
+
+import com.capgemini.bankapp.model.Customer;
+
+public interface CustomerService {
+
+	public static Customer authenticate(Customer customer) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	public Customer updateProfile(Customer customer);
+	public boolean updatePassword(Customer customer, String oldPassword, String newPassword);
+
+}

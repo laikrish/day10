@@ -1,0 +1,38 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Home page</title>
+</head>
+<body style="text-align=center">
+
+ <%@ include file = "header1.jsp" %>
+      <hr>
+       
+        <a href="homepage.jsp">Home</a>
+        &nbsp
+     
+        <a href="updateProfile.jsp">Edit Profile</a>
+        &nbsp
+       
+		
+		<a href="fundTransfer.jsp">Transfer money</a>
+		&nbsp
+		
+		<a href="checkBalance.jsp">Balance Enquiry</a>
+		&nbsp
+		
+		<a href="welcome.jsp">Logout</a>
+		&nbsp
+		
+		
+    
+
+        <%@ include file = "footer.jsp" %>
+
+
+
+</body>
+</html>
