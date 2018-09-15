@@ -8,7 +8,7 @@
 </head>
 <body bgcolor="pink">
 
- <h1>Your current balance is: ${sessionScope.Customer.accountType.balance}</h1>
+ <h1>Your current balance is: ${sessionScope.Customer.customerAccount.balance}</h1>
 
 </body>
 </html>

@@ -1,0 +1,38 @@
+package com.capgemini.bankapp.model;
+
+public class BankAccount {
+	
+	private long accountId;
+	private String bankAccountType;
+	private double balance;
+	public BankAccount() {
+		super();
+		
+	}
+	public BankAccount(long accountId, String bankAccount, double balance) {
+		super();
+		this.accountId = accountId;
+		this.bankAccountType = bankAccount;
+		this.balance = balance;
+	}
+	public long getAccountId() {
+		return accountId;
+	}
+	public void setAccountId(long accountId) {
+		this.accountId = accountId;
+	}
+	public String getbankAccountType() {
+		return bankAccountType;
+	}
+	public void setbankAccountType(String bankAccountType) {
+		this.bankAccountType = bankAccountType;
+	}
+	public double getBalance() {
+		return balance;
+	}
+	public void setBalance(double balance) {
+		this.balance = balance;
+	}
+}
+	
+	

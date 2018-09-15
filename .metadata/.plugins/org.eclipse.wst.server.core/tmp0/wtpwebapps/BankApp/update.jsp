@@ -33,5 +33,6 @@
 		<input type="submit" name="update">
 		
 		<%@ include file = "footer.jsp" %>
+		</form>
 </body>
 </html>

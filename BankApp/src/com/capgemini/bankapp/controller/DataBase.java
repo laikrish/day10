@@ -1,7 +1,6 @@
 package com.capgemini.bankapp.controller;
 
 import java.time.LocalDate;
-import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Set;
 
@@ -20,23 +19,24 @@ public class DataBase {
 	}
 	static {
 
-		Customer customer1 = new Customer(76,"sunny","account1","sunnihitha","sun@gmail.com","vdf",LocalDate.of(1880,3,12));
-		Customer customer2 = new Customer(77,"varu","account2", "diad","var@gmail.com","dfsf",LocalDate.of(1890,5,12));
-		Customer customer3 = new Customer(82,"krishna","account3","sdsds","kc@gmail.com","dfd",LocalDate.of(1880,6,12));
+		BankAccount account1 = new BankAccount(17888, "SAVINGS", 50000);
+		BankAccount account2 = new BankAccount(15643, "CURRENT", 40000);
+		BankAccount account3 = new BankAccount(156443, "SAVINGS", 700000);
+		
+		
+		accounts.add(account1);
+		accounts.add(account2);
+		accounts.add(account3);
+
+		Customer customer1 = new Customer(76,"sunny","sunpw","sun@gmail.com","vdf",LocalDate.of(1880,3,12),account1);
+		Customer customer2 = new Customer(77,"varu", "diad","var@gmail.com","dfsf",LocalDate.of(1890,5,12),account2);
+		Customer customer3 = new Customer(82,"krishna","sdsds","kc@gmail.com","dfd",LocalDate.of(1880,6,12),account3);
 		
 		
 		customers.add(customer1);
 		customers.add(customer2);
 		customers.add(customer3);
 		
-		BankAccount account1 = new BankAccount(17888, "SAVINGS", 57800);
-		BankAccount account2 = new BankAccount(15643, "CURRENT", 45600);
-		BankAccount account3 = new BankAccount(156443, "SAVINGS", 780000);
-		
-		
-		accounts.add(account1);
-		accounts.add(account2);
-		accounts.add(account3);
 		
 	}
 

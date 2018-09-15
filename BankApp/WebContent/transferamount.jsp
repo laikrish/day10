@@ -13,7 +13,7 @@
 <form action="transferAmount" method="post">
 	<br><br><br>
 	<label> From Account: </label>
-		<input type="text" value="${Customer.accountType.accountId}" name="fromAccId" readonly/>
+		<input type="text" value="${Customer.customerAccount.accountId}" name="fromAccId" readonly/>
 		<br> <br>
 	<label> To Account: </label>
 		<input type="text" name="toAccId" required/>

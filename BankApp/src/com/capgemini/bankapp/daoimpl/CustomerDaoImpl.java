@@ -13,6 +13,7 @@ public class CustomerDaoImpl implements CustomerDao {
 	@Override
 	public Customer authenticate(Customer customer) {
 		for (Customer c : customers) {
+			System.out.println(c.getEmail()+"--"+customer.getEmail()+"---"+c.getPassword()+"---"+customer.getPassword());
 			if (c.getEmail().equals(customer.getEmail())&& c.getPassword().equals(customer.getPassword())) {
 				
 					return c;
@@ -44,7 +45,9 @@ public class CustomerDaoImpl implements CustomerDao {
 		
 		for (Customer c : customers) {
 			if (c.getEmail().equals(customer.getEmail())) {
-				if (c.getPassword() == oldPassword) {
+				System.out.println("Hi");
+				if (c.getPassword().equals(oldPassword)) {
+					System.out.println("Hello");
 					c.setPassword(newPassword);
 					return true;
 				}

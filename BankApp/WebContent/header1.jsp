@@ -34,8 +34,13 @@
 		<a href="balanceenquiry.jsp">Balance Enquiry</a>
 		&nbsp
 		
+		<a href="updatepassword.jsp">Change Password</a>
+		&nbsp
+		
 		<a href="welcome.jsp">Logout</a>
 		&nbsp
+		
+		
    
   
   </div>

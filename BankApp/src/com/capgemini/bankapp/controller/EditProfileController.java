@@ -40,7 +40,7 @@ public class EditProfileController extends HttpServlet {
 
 		LocalDate dob = LocalDate.parse(customerDob);
 		RequestDispatcher dispatcher = null;
-		Customer customer = new Customer(customerId,customerName,null,password,email,address,dob);
+		Customer customer = new Customer(customerId,customerName,password,email,address,dob,null);
 		customerService.updateProfile(customer);
 		if (customer.getCustomerId() != 0) {
 			dispatcher = request.getRequestDispatcher("successedit.jsp");

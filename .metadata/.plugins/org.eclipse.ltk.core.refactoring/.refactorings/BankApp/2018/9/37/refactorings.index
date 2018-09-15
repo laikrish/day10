@@ -5,3 +5,6 @@
 1536922308059	Rename field 'account'
 1536922711090	Rename local variable 'accountType'
 1536925607396	Rename field 'bankAccount'
+1536992363991	Rename field 'balance'
+1536992917581	Rename field 'accountBalance'
+1536996083918	Rename field 'accountType'

@@ -249,3 +249,9 @@ Sep 11, 2018 06:17:33.03 [1908:10712:0911/061733.036:ERROR:ssl_client_socket_imp
 Sep 11, 2018 07:01:42.52 [1908:14596:0911/070142.523:ERROR:CONSOLE(0)] "Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: chrome://resources/roboto/roboto-regular.woff2", source:  (0)
 Sep 11, 2018 07:01:42.73 [1908:14596:0911/070142.736:ERROR:CONSOLE(429)] "Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: chrome://resources/roboto/roboto-bold.woff2", source: chrome://settings/crisper.js (429)
 Sep 11, 2018 07:01:42.90 [1908:14596:0911/070142.903:ERROR:CONSOLE(0)] "Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: chrome://resources/roboto/roboto-medium.woff2", source:  (0)
+
+Sep 15, 2018 01:12:43.94 NEW SESSION
+Sep 15, 2018 01:12:43.94 [3332:14872:0915/011243.942:ERROR:gpu_process_host.cc(1215)] Bad parenting request from gpu process.
+Sep 15, 2018 01:12:43.95 [3332:12752:0915/011243.952:ERROR:gpu_process_transport_factory.cc(1016)] Lost UI shared context.
+Sep 15, 2018 01:13:28.49 Unable to read VR Path Registry from C:\Users\laikrish\AppData\Local\openvr\openvrpaths.vrpath
+Sep 15, 2018 07:09:43.86 [3332:12752:0915/070943.853:ERROR:textfield.cc(1754)] NOT IMPLEMENTED

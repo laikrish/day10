@@ -42,11 +42,12 @@ public class LoginController extends HttpServlet {
 		String email = request.getParameter("email");
 		String password = request.getParameter("password");
 		RequestDispatcher dispatcher = null;
-		Customer customer = new Customer(0, "",null, password, email, "", null);
+		Customer customer = new Customer(0, "", password, email, "",null, null);
 		
 		
 		customer = customerService.authenticate(customer);
-		if (customer.getCustomerId()!=0 ) {
+		System.out.println(customer);
+		if (customer!=null ) {
 			HttpSession session = request.getSession();
 			session.setAttribute("Customer",customer);
 			session.setMaxInactiveInterval(180);
